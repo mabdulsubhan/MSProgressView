@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		0D01C7351F28BAD7003DD34E /* MSProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D01C7331F28BAD7003DD34E /* MSProgressView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0D01C73E1F28BE2F003DD34E /* ASProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D01C73C1F28BE2F003DD34E /* ASProgressView.swift */; };
 		0D01C73F1F28BE2F003DD34E /* UIBezierPath+scale.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D01C73D1F28BE2F003DD34E /* UIBezierPath+scale.swift */; };
 		0D01C7411F28BE42003DD34E /* MSProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D01C7401F28BE42003DD34E /* MSProgressView.swift */; };
 		27927E568826722CB5CB894F /* Pods_MSProgressView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 62B285D442D5B896C03BE690 /* Pods_MSProgressView.framework */; };
@@ -18,7 +17,6 @@
 		0D01C7301F28BAD7003DD34E /* MSProgressView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MSProgressView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D01C7331F28BAD7003DD34E /* MSProgressView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MSProgressView.h; sourceTree = "<group>"; };
 		0D01C7341F28BAD7003DD34E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0D01C73C1F28BE2F003DD34E /* ASProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ASProgressView.swift; sourceTree = "<group>"; };
 		0D01C73D1F28BE2F003DD34E /* UIBezierPath+scale.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIBezierPath+scale.swift"; sourceTree = "<group>"; };
 		0D01C7401F28BE42003DD34E /* MSProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MSProgressView.swift; sourceTree = "<group>"; };
 		62B285D442D5B896C03BE690 /* Pods_MSProgressView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MSProgressView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -69,7 +67,6 @@
 		0D01C73B1F28BE2F003DD34E /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				0D01C73C1F28BE2F003DD34E /* ASProgressView.swift */,
 				0D01C7401F28BE42003DD34E /* MSProgressView.swift */,
 				0D01C73D1F28BE2F003DD34E /* UIBezierPath+scale.swift */,
 			);
@@ -209,7 +206,6 @@
 			files = (
 				0D01C73F1F28BE2F003DD34E /* UIBezierPath+scale.swift in Sources */,
 				0D01C7411F28BE42003DD34E /* MSProgressView.swift in Sources */,
-				0D01C73E1F28BE2F003DD34E /* ASProgressView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
